@@ -36,10 +36,6 @@ I'm [Your Name]!
 
 ### 📫 How to reach me:
 
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourlinkedin)
-- Email: [youremail@example.com](mailto:youremail@example.com)
-
 ---
 
 ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
