@@ -32,11 +32,3 @@ I'm [Your Name]!
   <img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=F05032" />
 </p>
 
----
-
-### 📫 How to reach me:
-
----
-
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
-
