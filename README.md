@@ -2,11 +2,11 @@
 
 I'm [Your Name]!
 
-- 🔭 I’m currently working on [Machine Learning and Deep Networks].
-- 🌱 I’m currently learning [persistent homology].
-- 👯 I’m looking to collaborate on [Machine Learning and Deep Networks].
-- 💬 Ask me about [Machine Learning].
-- ⚡ Fun fact: [I'm very curious and I like learning about new tools].
+- 🔭 I’m currently working on Machine Learning and Deep Networks.
+- 🌱 I’m currently learning persistent homology.
+- 👯 I’m looking to collaborate on Machine Learning and Deep Networks.
+- 💬 Ask me about Machine Learning.
+- ⚡ Fun fact: I'm very curious and I like learning about new tools.
 
 ---
 
