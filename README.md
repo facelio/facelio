@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Your Name]!
+I'm sousa!
 
 - 🔭 I’m currently working on Machine Learning and Deep Networks.
 - 🌱 I’m currently learning persistent homology.
