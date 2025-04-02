@@ -20,8 +20,8 @@ I'm sousa!
 
 <p>
   <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/-flask_python-000?style=for-the-badge&logo=flask&logoColor=339933" />
+  <img src="https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=C++&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/-flask_python-000?style=for-the-badge&logo=flask python&logoColor=339933" />
   <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
